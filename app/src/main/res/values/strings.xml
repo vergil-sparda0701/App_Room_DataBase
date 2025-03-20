@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Room_DataBase</string>
+        <string name="precio">Precio</string>
+        <string name="codigo">Codigo</string>
+        <string name="descripcion">Descripcion</string>
+        <string name="todo">TODO</string>
+</resources>
